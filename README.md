@@ -1,7 +1,7 @@
 ## Opa iae! Eu sou Marcos Vinicius 
 
-- 🔭 Treinando poara achar um Estagio
-- 🌱 Atualmente estudando JavaScript
+- 🔭 Treinando para achar um Estagio
+- 🌱 Atualmente desenvolvendo HTML/CSS
 - 😄 Pronomes: ele/dele
 
 <div>
