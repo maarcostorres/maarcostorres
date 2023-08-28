@@ -1,8 +1,8 @@
 ## Opa iae! Eu sou Marcos Vinicius 
 
-- 🔭 Treinando para achar um Estagio
-- 🌱 Atualmente desenvolvendo HTML/CSS
-- 😄 Pronomes: ele/dele
+- 🔭 Em Treinamento para se tornar Melhor!!
+- 🌱 Atualmente desenvolvendo em C
+- 😄 Pronomes: Ele/Dele
 
 <div>
   <a href="https://github.com/maarcostorres">
