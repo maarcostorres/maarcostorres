@@ -1,8 +1,7 @@
 ## Opa iae! Eu sou Marcos Vinicius 
 
 - 🔭 Em Treinamento para se tornar Melhor!!
-- 🌱 Atualmente desenvolvendo em C
-- 😄 Pronomes: Ele/Dele
+- 🌱 Atualmente desenvolvendo em JAVA
 
 <div>
   <a href="https://github.com/maarcostorres">
