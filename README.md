@@ -1,7 +1,7 @@
 ## Opa iae! Eu sou Marcos Vinicius 
 
 - 🔭 Em Treinamento para se tornar Melhor!!
-- 🌱 Atualmente desenvolvendo em JAVA
+- 🌱 Atualmente desenvolvendo em TypeScript/Python
 
 <div>
   <a href="https://github.com/maarcostorres">
