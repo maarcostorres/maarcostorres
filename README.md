@@ -1,9 +1,6 @@
 ## Opa eu sou Marcos Vinicius, estudante de Ciencia da Computação da UVV!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apimaarcostorresanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apimaarcostorresanuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apimaarcostorresanuraghazra&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apimaarcostorresanuraghazra&show_icons=true&theme=dracula)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maarcostorres&bg_color=96BCE5&color=ffffff&line=00ffbf&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
