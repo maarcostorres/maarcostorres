@@ -10,7 +10,7 @@ Visitors (Since 2024/10/25)<br>
 **About me**
 <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=maarcostorres&theme=tokyonight&show_icons=true&hide_border=true&bg_color=00000000&include_all_commits=true" />
 - Student
-- Back-End (a bit Front-End)
+- Back-End (i hate Front-End)
 - Game Explorer
 - Hardware Engineer
 - FromSoft fan
