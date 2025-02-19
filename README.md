@@ -3,7 +3,7 @@ semydeus@markim:~$ markim > README.md
 ```
 
 <p align="center">
-Visitors (Since 2024/10/25)<br>
+Visitors (Since 2025/02/19)<br>
 <img src="https://count.chiya.dev/get/@maarcostorres?theme=rule34" />
 </p>
 
