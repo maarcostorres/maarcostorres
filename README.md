@@ -15,7 +15,11 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">I really enjoy technology and learning about diverse areas, always seeking to expand my knowledge.
+
+Currently, I work in the Digital Channels Coordination at Unimed Vitória, where I support strategic IT initiatives aligned with the company's planning. My role involves collaborating with the team to optimize processes and technological solutions that add value to the company's sector and application.
+
+In parallel, I am studying Computer Science at Vila Velha University, which allows me to apply my programming skills. I am also a member of the UVV Finance group, where I contribute to market analysis and develop skills in collaboration and critical thinking.</p>
 
 ###
 
