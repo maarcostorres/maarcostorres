@@ -70,10 +70,10 @@ In parallel, I am studying Computer Science at Universidade Vila Velha, which al
   <a href="mailto:maarcosvstorres12@gmail.com" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/maarcos_vt?igsh=dWV0ZnNmcmJlZWEy" target="_blank">
+  <a href="https://www.instagram.com/maarkim_vt?igsh=dWV0ZnNmcmJlZWEy" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://x.com/itsmaarkim?t=0txW5E9iShivI37HNOGioQ&s=09" target="_blank">
+  <a href="https://x.com/maarkim_vt?t=0txW5E9iShivI37HNOGioQ&s=09" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
 </div>
