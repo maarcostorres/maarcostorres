@@ -17,7 +17,7 @@
 
 <p align="left">I am a Computer Science student at Universidade Vila Velha (UVV) with a deep passion for technology and a continuous drive to expand my knowledge across diverse fields.
 
-On the technical side, I am proficient in programming with C#, Python, PHP, and JavaScript, applying these skills to solve real-world problems and deliver efficient projects. I am always looking for new challenges that allow me to bridge the gap between academic theory and professional innovation.</p>
+On the technical side, I am proficient in programming with Python, JavaScript, Java and C# applying these skills to solve real-world problems and deliver efficient projects. I am always looking for new challenges that allow me to bridge the gap between academic theory and professional innovation.</p>
 
 ###
 
