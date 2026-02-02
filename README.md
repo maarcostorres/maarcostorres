@@ -15,11 +15,9 @@
 
 ###
 
-<p align="left">I really enjoy technology and learning about diverse areas, always seeking to expand my knowledge.
+<p align="left">I am a Computer Science student at Universidade Vila Velha (UVV) with a deep passion for technology and a continuous drive to expand my knowledge across diverse fields.
 
-Currently, I work in the Digital Channels Coordination at Unimed Vitória, where I support strategic IT initiatives aligned with the company's planning. My role involves collaborating with the team to optimize processes and technological solutions that add value to the company's sector and application.
-
-In parallel, I am studying Computer Science at Universidade Vila Velha, which allows me to apply my programming skills. I am also a member of the UVV Finance group, where I contribute to market analysis and develop skills in collaboration and critical thinking.</p>
+On the technical side, I am proficient in programming with C#, Python, PHP, and JavaScript, applying these skills to solve real-world problems and deliver efficient projects. I am always looking for new challenges that allow me to bridge the gap between academic theory and professional innovation.</p>
 
 ###
 
